@@ -3,7 +3,7 @@ Hi there, I'm <span style="color:Red"> Juan Sebastian 😃
 </h1>
 
 <p align="center"> 
-    <image src="https://github.com/JuanSeCortes/learn-programming/assets/152464350/877b803c-d02f-4998-a4fe-2f0ccb549572" width="300">
+    <image src="https://github.com/JuanSeCortes/learn-programming/assets/152464350/877b803c-d02f-4998-a4fe-2f0ccb549572" width="400">
 
 <h4 align="center"> Greetings, I'm Sebastián, a passionate person who is taking his first steps in the world of web development. This repository is my learning space, dedicated to exploring and understanding HTML, CSS and then dedicating myself to JavaScript, the fundamental languages for creating interactive and stylized content on the web.
 </h4> 
