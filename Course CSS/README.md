@@ -1,5 +1,5 @@
 <h1 align="center">
-This is <span style:"red"> CSS💻
+This is <span style="color:red"> CSS💻
 </h1>
 
 <p align="center"> 

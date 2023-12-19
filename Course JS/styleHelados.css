@@ -1,0 +1,20 @@
+h1 {
+    margin: 3rem;
+    text-align: center;
+    background-color: aqua;
+    border-radius: 0.8rem;
+    box-shadow: 0 0.3rem 0.5rem rgba(0, 0, 0, 0.6);
+
+}
+
+article {
+    background-color: aqua;
+    text-align: center;
+    transition: box-shadow 0.3s ease;
+    margin: 1rem 0;
+    border-radius: 0.8rem;
+    padding: 0.25rem 0;
+    cursor: pointer;
+    box-shadow: 0 0.3rem 0.5rem rgba(0, 0, 0, 0.6);
+
+}
