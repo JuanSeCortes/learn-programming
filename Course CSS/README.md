@@ -4,7 +4,7 @@ This is <span style="color:red"> CSS💻
 
 <p align="center"> 
     <image src="https://github.com/JuanSeCortes/learn-programming/assets/152464350/6e8dae8f-4b67-459e-8ead-2a4e275c67e7"
-" width="300">
+width="400">
 
 <h4 align="center"> Hello, This is my first CSS code in which I visually improve my blog about UdeA to put into practice what I have learned
 </h4> 
