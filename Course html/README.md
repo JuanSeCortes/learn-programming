@@ -4,7 +4,7 @@ This is <span style="color:blue"> Html💻
 
 <p align="center"> 
     <image src="https://github.com/JuanSeCortes/learn-programming/assets/152464350/71d6ee9a-7ecc-425a-bd7f-027b62af5cad"
-" width="300">
+" width="400">
 
 <h4 align="center"> Hello, here is my first HTML code and a small UdeA blog to put into practice what I have learned.
 </h4> 
