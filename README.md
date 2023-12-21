@@ -23,7 +23,7 @@ Hi there, I'm <span style="color:Red"> Juan Sebastian 😃
 <p aling="center">
     <a href="https://github.com/JuanSeCortes"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Git Hub"></a>
     <a href="https://www.instagram.com/juan_se68/?next=%2F"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="https://api.whatsapp.com/send/?phone=%2B573005737847&text&type=phone_number&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+    <a href="https://api.whatsapp.com/send/?phone=%2B573245274809&text&type=phone_number&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
     
 </p>
 
