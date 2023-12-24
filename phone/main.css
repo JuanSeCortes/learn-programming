@@ -1,0 +1,245 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.antennna {
+    background: rgb(54, 41, 41);
+    color: rgb(7, 6, 6);
+    margin: 1.1rem;
+    width: 1.8rem;
+    height: 30rem;
+    translate: 29.5rem;
+    border-radius: 10px 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0 0.7rem 0.9rem rgba(0, 0, 0, 0.9);
+}
+
+.phone {
+    background: rgb(22, 14, 14);
+    width: 20rem;
+    height: 31rem;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 1.9rem;
+    padding: 1rem;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0 0.7rem 0.9rem rgba(0, 0, 0, 0.9);
+}
+
+.speaker {
+    flex: 0.2;
+    width: 90%;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    font-size: 18px;
+    gap: 65px;
+    padding: 1px;
+}
+
+.logo {
+    box-shadow: 0 0.3rem 0.5rem rgba(41, 40, 40, 0.3);
+    border-radius: 30px;
+    padding: 2px;
+    color: rgb(199, 191, 191);
+    
+}
+
+.hole1 {
+    color: rgb(199, 191, 191);
+    font-size: 20px;
+    align-items: center;
+
+}
+
+.screen {
+    flex: 1;
+    width: 90%;
+    height: 20px;
+    background: rgb(94, 204, 94);
+    border-radius: 1rem;
+    padding: 0.5rem;
+    display: flex;
+}
+
+.screen_left, .screen_right {
+    height: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    gap: 5px;    
+    align-items: start;
+}
+
+.screen_left_1,.screen_left_2, .screen_left_3, .screen_left_4  {
+    width: 10px;
+    height: 22px;
+    background: #1b1919;
+}
+
+.screen_left_2 {
+    width: 8px;
+}
+
+.screen_left_3 {
+    width: 6px;
+}
+
+.screen_left_4 {
+    width: 4px;
+}
+
+.screen_center {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    padding: 0.5rem;
+    justify-content: space-between;
+    font-size: 20px;
+}
+
+.screen_center_top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.screen_center_bottom {
+    text-align: center;
+}
+
+.screen_right {
+    align-items: end;
+}
+
+.batery {
+    transform: rotate(-90deg) translateY(5px);
+}
+
+.keyboard {
+    flex: 1.8;
+    width: 100%;
+    padding: 20px 8px;
+    font-size: 25px;
+}
+
+.first {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1.5rem;
+}
+
+.first .left, .first .rigth {
+    flex: 1;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(224, 215, 215);
+    transform: rotate(20deg);
+    border-radius: 20px 8px 40px 20px;
+}
+
+.first .left > i, .first .rigth > i {
+    transform: rotate(230deg) !important;
+    color: green;
+}
+
+.first .center {
+    flex: 2;
+    height: 40px;
+    background: rgb(199, 191, 191);
+    display: flex;
+    justify-content: center;
+    gap: 4rem;
+    /* align-items: center; */
+    border-radius: 15px 15px 60px 60px;
+}
+
+.first .center_left {
+    font-size: 32px;
+    transform: rotate(-50deg);
+}
+
+.first .center_right {
+    font-size: 32px;
+    transform: rotate(50deg);
+}
+
+.first .rigth {
+    transform: scaleX(-1) rotate(20deg);
+}
+
+.first .rigth > i {
+    color: red;
+}
+
+.grid_container {
+    flex: 1;
+    border: 6px;
+    width: 100%;
+    height: 90%;
+    margin: 5px 0px;
+    /* padding: 5px 0px; */
+    display: grid;
+    place-items: center;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.number_keyboard_l {
+
+    background-color: rgb(199, 191, 191);
+    font-size: 20px;
+    width: 69px;
+    height: 32px;
+    transform: skew(20deg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px 20px 20px 30px;
+
+}
+
+.number_keyboard_c {
+
+    background-color: rgb(199, 191, 191);
+    font-size: 20px;
+    width: 69px;
+    height: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+
+}
+
+.number_keyboard_r {
+
+    background-color: rgb(199, 191, 191);
+    font-size: 20px;
+    width: 69px;
+    height: 32px;
+    transform: skew(-20deg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px 10px 30px 20px;
+
+}
