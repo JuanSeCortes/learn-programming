@@ -44,11 +44,11 @@ const celular1 = new Celular("Rojo","150g","5.5'","Full HD","2GB");
 const celular2 = new Celular("Negro","180g","6.5'","HD","4GB");
 const celular3 = new Celular("Blanco","190g","6.7'","4K","8GB");
 
-document.write(`
-    ${celular1.mobileInfo()} <br>
-    ${celular2.mobileInfo()} <br>
-    ${celular3.mobileInfo()} <br>
-`);
+// document.write(`
+//     ${celular1.mobileInfo()} <br>
+//     ${celular2.mobileInfo()} <br>
+//     ${celular3.mobileInfo()} <br>
+// `);
 
 // celular1.presionarBotonEncendido();
 // celular1.tomarFoto();
