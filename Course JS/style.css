@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    background-position: center;
+    background-color: rgb(11, 31, 210);
+    text-shadow: 5px 5px rgb(0, 0, 0, 70%);
+    -webkit-text-stroke-color: #fff;
+    -webkit-text-stroke-width:  1px;
+    color: transparent;;
+}
+
+.experimento {
+    display: flex;
+    height: 21rem;
+    gap: 1rem;
+}
+
+.experimento > div {
+    flex: 1;
+    border-radius: 1rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto 100%;
+    transition: all 0.8s cubic-bezier(0.25, 0.4, 0.45, 1.4);
+}
+
+.experimento > div:hover {
+    flex: 3.1;
+    border-radius: 1rem;
+}
