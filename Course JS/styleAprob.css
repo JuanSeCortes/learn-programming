@@ -8,14 +8,16 @@ h1{
     color: white;
     font-size: 44px;
     left: 0px;
+    position: absolute;
 }
+
 button{
-    width: 165px;
-    height: 62px;
+    width: 215px;
+    height: 82px;
     top: 9rem;
     cursor: pointer;
     color: white;
-    font-size: 19px;
+    font-size: 29px;
     border-radius: 1rem;
     border: none;
     position: relative;
